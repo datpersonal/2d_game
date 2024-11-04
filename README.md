@@ -8,7 +8,9 @@ There will be 10 angpow (red envelopes): You will be able to pick 5 of them. The
 
 ### Scene 2 (main game): This is where you will spend most of the time
 ![image](https://github.com/user-attachments/assets/e04dd41d-b2e1-445c-9c7a-b512471d9800)
-You will pick your bet on any figure on the board by clicking on the betting button on each pictures. You will win money if the dices has the figure of your choice
+
+You will pick your bet on any figure on the board by clicking on the betting button on each pictures. You will win money if the dices has the figure of your choice.
+
 ![image](https://github.com/user-attachments/assets/b0a00214-c53d-4bd4-ac68-f4b280aba386)
 
 
