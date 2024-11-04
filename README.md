@@ -9,8 +9,13 @@ There will be 10 angpow (red envelopes): You will be able to pick 5 of them. The
 ### Scene 2 (main game): This is where you will spend most of the time
 ![image](https://github.com/user-attachments/assets/e04dd41d-b2e1-445c-9c7a-b512471d9800)
 
-You will pick your bet on any figure on the board by clicking on the betting button on each pictures. You will win money if the dices has the figure of your choice.
+You will pick your bet on any figure on the board by clicking on the betting button on each pictures. You will win money if the dices has the figure of your choice. You play until you are out of money. So play game responsible.
 
 ![image](https://github.com/user-attachments/assets/b0a00214-c53d-4bd4-ac68-f4b280aba386)
+
+During game play, if you ever hit jackpot (3 dices turn out to be the same figures), then you will have a chance to go to mini_game scene which is the scene 1 to pick a random 5 angpow to add more (or nothing) to your current cash.
+
+## Conclusion:
+This game could be improve more later on and you can play it the web version [here](https://datpersonal.github.io/bau_cua/)
 
 
