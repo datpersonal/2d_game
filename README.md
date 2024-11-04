@@ -1,5 +1,4 @@
 # Bau Cua Tom Ca
-
 ##Introduction
 Welcome to my Bau Cua Tom Ca game, this is a popular game to play during Tet, vietnamese holidy. The game is quite simple as you are betting on six different figures on the board and may the god of luck bless you with his blessing.
 ##Gameplay:
