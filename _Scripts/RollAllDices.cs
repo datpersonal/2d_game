@@ -322,7 +322,6 @@ public class DiceManager : MonoBehaviour
         betting.yesBtn.gameObject.SetActive(true);
         betting.noBtn.gameObject.SetActive(true);
         betting.info_text.text = "You hit jackpot\nPress Yes to go to your reward scene, press No if you wish to stay";
-        Debug.Log("Cash " + Cash_Manager.starting_cash_amount);
-
+        Cash_Manager.starting_cash_amount = betting.current_cash;
     }
 }

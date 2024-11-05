@@ -26,7 +26,6 @@ public class Pick_Angpow : MonoBehaviour
             info_text.text = "Current cash: $" + Cash_Manager.starting_cash_amount;
             audioSource.Play();
             Destroy(gameObject);
-
             if (totalClicks >= maxClicks)
             {
                 Debug.Log("Maximum valid clicks reached! No more items can be picked.");
